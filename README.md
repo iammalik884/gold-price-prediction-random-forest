@@ -1,6 +1,6 @@
 # Gold Price Prediction (Random Forest)
 
-This project predicts gold prices using a Random Forest Regressor. It includes data cleaning, feature engineering, model training, evaluation, and visualizations to understand market trends.
+This project predicts gold prices using a Random Forest Regressor. The notebook includes data preprocessing, feature engineering, model training, and evaluation. It provides a simple and effective workflow to understand and forecast gold market trends.
 
 ## Features
 - Historical gold price preprocessing
